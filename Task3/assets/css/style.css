@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fafafa;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+.head {
+    text-align: center;
+    color: gray;
+    margin-top: 10px;
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.cards .card {
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    width: 350px;
+    height: 500px;
+}
+.card .main {
+    border-radius: 10px 10px 0 0 ;
+}
+.card .first {
+    color: gray;
+    margin-left: 20px;
+}
+.card span {
+    color: gray;
+}
+i {
+    margin: 20px 0 20px 20px;
+    color: green;
+}
+h3 {
+    margin-left: 20px;
+}
+.second {
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.name {
+    font-weight: bold;
+    color: black;
+    margin-left: 100px;
+    margin-top: -57px;
+}
+.number {
+    color: gray;
+    margin-left: 100px;
+    
+}
